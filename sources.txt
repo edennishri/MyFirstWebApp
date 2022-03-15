@@ -1,0 +1,19 @@
+https://www.w3schools.com/tags/tag_input.asp
+https://www.w3schools.com/tags/tag_label.asp
+https://www.youtube.com/watch?v=FdlBtidhAnE
+https://www.youtube.com/watch?v=pQN-pnXPaVg
+https://www.w3schools.com/tags/att_input_pattern.asp
+https://stackoverflow.com/questions/5601647/html5-email-input-pattern-attribute
+https://www.ohadf.com/
+udemy build a website using html and css course
+https://www.w3schools.com/html/html_form_elements.asp
+https://www.w3schools.com/howto/howto_js_redirect_webpage.asp
+https://stackoverflow.com/questions/46155/how-to-validate-an-email-address-in-javascript
+https://www.w3schools.com/css/css_align.asp
+https://www.w3schools.com/jsref/met_element_addeventlistener.asp
+https://www.w3schools.com/tags/ev_onclick.asp
+https://www-it.fmi.uni-sofia.bg/courses/maten/module1/activity32.html#:~:text=For%20example%2C%20you%20can%20insert,be%20inserted%20between%20and%20tags.
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+https://www.universalclass.com/articles/computers/javascript/how-to-script-forms-with-javascript.htm
+https://www.w3schools.com/tags/tag_div.ASP
+https://www.geeksforgeeks.org/how-to-create-a-form-dynamically-with-the-javascript/#:~:text=Approach%201%3A%20Use%20document.,body%3E%20element%20of%20the%20document.

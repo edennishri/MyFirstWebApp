@@ -1,0 +1,163 @@
+/*whole web style*/
+body{
+    margin: 0px;
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+
+/*navbar style*/
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    padding: 36px;
+}
+
+.leftSide{
+    display: flex;
+}
+.navBar > .rightSide {
+    text-transform: uppercase;
+}
+.navBar > .leftSide > div {
+    margin-right: 15px;
+    font-size: 0.95em;
+    text-transform: uppercase;
+}
+
+.navLinkWrapper a{
+    color: #8a8a8a;
+    text-decoration: none;
+    transition: 0.5s;
+}
+.navLinkWrapper a:hover{
+    color: #282626;
+}
+
+/*portfolios style*/
+.portfolioItemsWrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.portfolioItemWrapper{
+    position: relative;
+}
+
+.portfolioImgBackground{
+    height: 300px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.imgTextWrapper{
+    position: absolute;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    text-align: center;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+
+.imgTextWrapper .subContent{
+    transition: 1s;
+    font-weight: 800;
+    color: transparent;
+}
+/*when we move over it */
+.imgTextWrapper:hover .subContent{
+    font-weight: 800;
+    color: #3f8dd7;
+}
+.imgDarken{
+    transition: 1s;
+    filter: brightness(15%);
+}
+
+
+/* about page */
+.twoColumnWrapper {
+    display: grid;
+    grid-template-columns: 0.1fr 1fr;
+}
+
+.profileImgWrapper {
+    padding-left: 33px;
+
+}
+.profileContentWrapper{
+    padding-right: 100px;
+}
+
+
+.profileContentWrapper h1{
+    color: #3f8dd7;
+}
+
+/* snake game */
+
+#game {
+    top: 30%;
+    left:32%;
+    position: fixed;
+
+}
+.box{
+
+
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+/*requierments page */
+.footer {
+    position: center;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 12px;
+    background-color: #0d1a62;
+    color: white;
+    text-align: center;
+}
+
+
+h2{
+    color: blanchedalmond;
+}
+.hebrew{
+    text-align: right;
+}
+p{
+    text-align: center;
+}
+.column-education{
+    border-radius: 8px;
+}
+.column{
+    rotation: revert;
+}
+li:nth-child(odd) {
+    color: darkred;
+}
+li:nth-child(even) {
+    color: skyblue;
+}
+
+
+
+
+
+
+
+
+
+
